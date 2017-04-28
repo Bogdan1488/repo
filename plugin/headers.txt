@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name            Charm-a
+// @version         1
+// @run-at          document-end
+// @include         /^https?:\/\/(?:w{3})?\d?\.(?:charmingdate|charmdate)\.com\/(?:clagt|lady)/
+// @grant           unsafeWindow
+// @grant           GM_xmlhttpRequest
+// @require         http://chagency.at.ua/libs/zonejs.js
+// @require         http://chagency.at.ua/libs/reflect.js
+// @require         http://chagency.at.ua/jump4love/lscache.js
+// @require         https://code.jquery.com/jquery-3.2.1.min.js
+// @noframes
+// ==/UserScript==
